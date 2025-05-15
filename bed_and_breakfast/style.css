@@ -1,0 +1,32 @@
+* {
+    margin: 30px;
+    padding: 0px;
+}
+
+body {
+    background-color: #02182B;
+    color: #ece034;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    width: 90%;
+    margin: auto;
+    align-self: center;
+    background-color: #9c8e6e;
+    text-align: center;
+    box-shadow: 5px 3px 10px grey;
+}
+
+header {
+
+    height: 550px;
+    border-bottom: 2px black double;
+
+}
+
+h1 {
+    font-variant: small-caps;
+    padding-top: 0px;
+}
+
